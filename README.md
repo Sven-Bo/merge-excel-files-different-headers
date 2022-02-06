@@ -4,7 +4,8 @@ Consolidating data from multiple Excel files requires you to have identical tabl
 
 ## Video Tutorial
 
-...will follow soon 👍
+[![YouTube Video](https://img.youtube.com/vi/Tk47jTuBr4I/0.jpg)](https://youtu.be/Tk47jTuBr4I)
+
 
 ## Requirements
 ```
